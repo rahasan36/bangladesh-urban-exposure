@@ -1,0 +1,201 @@
+dataset,year,taxon,status_group,n,n_over_1pct,n_over_5pct,n_over_10pct,n_over_20pct
+ESA300,1992,Mammal,Least Concern,121,1,1,1,1
+ESA300,1992,Mammal,Near Threatened,10,0,0,0,0
+ESA300,1992,Mammal,Threatened,24,0,0,0,0
+ESA300,1992,Mammal,Data Deficient,3,0,0,0,0
+ESA300,1992,Reptile,Least Concern,147,1,1,1,1
+ESA300,1992,Reptile,Near Threatened,7,0,0,0,0
+ESA300,1992,Reptile,Threatened,32,0,0,0,0
+ESA300,1992,Reptile,Data Deficient,5,0,0,0,0
+ESA300,1992,Amphibian,Least Concern,68,0,0,0,0
+ESA300,1992,Amphibian,Data Deficient,4,1,1,1,1
+ESA300,1996,Mammal,Least Concern,121,1,1,1,1
+ESA300,1996,Mammal,Near Threatened,10,0,0,0,0
+ESA300,1996,Mammal,Threatened,24,0,0,0,0
+ESA300,1996,Mammal,Data Deficient,3,0,0,0,0
+ESA300,1996,Reptile,Least Concern,147,1,1,1,1
+ESA300,1996,Reptile,Near Threatened,7,0,0,0,0
+ESA300,1996,Reptile,Threatened,32,0,0,0,0
+ESA300,1996,Reptile,Data Deficient,5,0,0,0,0
+ESA300,1996,Amphibian,Least Concern,68,0,0,0,0
+ESA300,1996,Amphibian,Data Deficient,4,1,1,1,1
+ESA300,2000,Mammal,Least Concern,121,1,1,1,1
+ESA300,2000,Mammal,Near Threatened,10,0,0,0,0
+ESA300,2000,Mammal,Threatened,24,0,0,0,0
+ESA300,2000,Mammal,Data Deficient,3,0,0,0,0
+ESA300,2000,Reptile,Least Concern,147,1,1,1,1
+ESA300,2000,Reptile,Near Threatened,7,0,0,0,0
+ESA300,2000,Reptile,Threatened,32,0,0,0,0
+ESA300,2000,Reptile,Data Deficient,5,0,0,0,0
+ESA300,2000,Amphibian,Least Concern,68,0,0,0,0
+ESA300,2000,Amphibian,Data Deficient,4,1,1,1,1
+ESA300,2004,Mammal,Least Concern,121,1,1,1,1
+ESA300,2004,Mammal,Near Threatened,10,0,0,0,0
+ESA300,2004,Mammal,Threatened,24,0,0,0,0
+ESA300,2004,Mammal,Data Deficient,3,0,0,0,0
+ESA300,2004,Reptile,Least Concern,147,1,1,1,1
+ESA300,2004,Reptile,Near Threatened,7,0,0,0,0
+ESA300,2004,Reptile,Threatened,32,0,0,0,0
+ESA300,2004,Reptile,Data Deficient,5,0,0,0,0
+ESA300,2004,Amphibian,Least Concern,68,0,0,0,0
+ESA300,2004,Amphibian,Data Deficient,4,1,1,1,1
+ESA300,2008,Mammal,Least Concern,121,1,1,1,1
+ESA300,2008,Mammal,Near Threatened,10,0,0,0,0
+ESA300,2008,Mammal,Threatened,24,0,0,0,0
+ESA300,2008,Mammal,Data Deficient,3,0,0,0,0
+ESA300,2008,Reptile,Least Concern,147,1,1,1,1
+ESA300,2008,Reptile,Near Threatened,7,0,0,0,0
+ESA300,2008,Reptile,Threatened,32,1,0,0,0
+ESA300,2008,Reptile,Data Deficient,5,0,0,0,0
+ESA300,2008,Amphibian,Least Concern,68,1,0,0,0
+ESA300,2008,Amphibian,Data Deficient,4,1,1,1,1
+ESA300,2012,Mammal,Least Concern,121,2,1,1,1
+ESA300,2012,Mammal,Near Threatened,10,0,0,0,0
+ESA300,2012,Mammal,Threatened,24,0,0,0,0
+ESA300,2012,Mammal,Data Deficient,3,0,0,0,0
+ESA300,2012,Reptile,Least Concern,147,2,1,1,1
+ESA300,2012,Reptile,Near Threatened,7,0,0,0,0
+ESA300,2012,Reptile,Threatened,32,1,0,0,0
+ESA300,2012,Reptile,Data Deficient,5,0,0,0,0
+ESA300,2012,Amphibian,Least Concern,68,2,0,0,0
+ESA300,2012,Amphibian,Data Deficient,4,1,1,1,1
+ESA300,2016,Mammal,Least Concern,121,5,1,1,1
+ESA300,2016,Mammal,Near Threatened,10,0,0,0,0
+ESA300,2016,Mammal,Threatened,24,4,0,0,0
+ESA300,2016,Mammal,Data Deficient,3,0,0,0,0
+ESA300,2016,Reptile,Least Concern,147,14,1,1,1
+ESA300,2016,Reptile,Near Threatened,7,1,0,0,0
+ESA300,2016,Reptile,Threatened,32,1,0,0,0
+ESA300,2016,Reptile,Data Deficient,5,0,0,0,0
+ESA300,2016,Amphibian,Least Concern,68,3,0,0,0
+ESA300,2016,Amphibian,Data Deficient,4,1,1,1,1
+ESA300,2020,Mammal,Least Concern,121,5,1,1,1
+ESA300,2020,Mammal,Near Threatened,10,0,0,0,0
+ESA300,2020,Mammal,Threatened,24,4,0,0,0
+ESA300,2020,Mammal,Data Deficient,3,0,0,0,0
+ESA300,2020,Reptile,Least Concern,147,17,1,1,1
+ESA300,2020,Reptile,Near Threatened,7,1,0,0,0
+ESA300,2020,Reptile,Threatened,32,1,0,0,0
+ESA300,2020,Reptile,Data Deficient,5,0,0,0,0
+ESA300,2020,Amphibian,Least Concern,68,4,0,0,0
+ESA300,2020,Amphibian,Data Deficient,4,1,1,1,1
+GLC30,1985,Mammal,Least Concern,121,6,1,1,1
+GLC30,1985,Mammal,Near Threatened,10,1,0,0,0
+GLC30,1985,Mammal,Threatened,24,4,0,0,0
+GLC30,1985,Mammal,Data Deficient,3,0,0,0,0
+GLC30,1985,Reptile,Least Concern,147,17,1,1,1
+GLC30,1985,Reptile,Near Threatened,7,1,0,0,0
+GLC30,1985,Reptile,Threatened,32,1,0,0,0
+GLC30,1985,Reptile,Data Deficient,5,0,0,0,0
+GLC30,1985,Amphibian,Least Concern,68,5,0,0,0
+GLC30,1985,Amphibian,Data Deficient,4,1,1,1,1
+GLC30,1990,Mammal,Least Concern,121,8,1,1,1
+GLC30,1990,Mammal,Near Threatened,10,1,0,0,0
+GLC30,1990,Mammal,Threatened,24,5,0,0,0
+GLC30,1990,Mammal,Data Deficient,3,0,0,0,0
+GLC30,1990,Reptile,Least Concern,147,23,1,1,1
+GLC30,1990,Reptile,Near Threatened,7,1,0,0,0
+GLC30,1990,Reptile,Threatened,32,1,0,0,0
+GLC30,1990,Reptile,Data Deficient,5,0,0,0,0
+GLC30,1990,Amphibian,Least Concern,68,5,0,0,0
+GLC30,1990,Amphibian,Data Deficient,4,1,1,1,1
+GLC30,1995,Mammal,Least Concern,121,18,1,1,1
+GLC30,1995,Mammal,Near Threatened,10,1,0,0,0
+GLC30,1995,Mammal,Threatened,24,5,0,0,0
+GLC30,1995,Mammal,Data Deficient,3,0,0,0,0
+GLC30,1995,Reptile,Least Concern,147,40,1,1,1
+GLC30,1995,Reptile,Near Threatened,7,2,0,0,0
+GLC30,1995,Reptile,Threatened,32,11,0,0,0
+GLC30,1995,Reptile,Data Deficient,5,0,0,0,0
+GLC30,1995,Amphibian,Least Concern,68,14,0,0,0
+GLC30,1995,Amphibian,Data Deficient,4,1,1,1,1
+GLC30,2000,Mammal,Least Concern,121,70,1,1,1
+GLC30,2000,Mammal,Near Threatened,10,7,0,0,0
+GLC30,2000,Mammal,Threatened,24,9,0,0,0
+GLC30,2000,Mammal,Data Deficient,3,1,0,0,0
+GLC30,2000,Reptile,Least Concern,147,117,1,1,1
+GLC30,2000,Reptile,Near Threatened,7,5,0,0,0
+GLC30,2000,Reptile,Threatened,32,19,0,0,0
+GLC30,2000,Reptile,Data Deficient,5,2,0,0,0
+GLC30,2000,Amphibian,Least Concern,68,46,0,0,0
+GLC30,2000,Amphibian,Data Deficient,4,1,1,1,1
+GLC30,2004,Mammal,Least Concern,121,81,1,1,1
+GLC30,2004,Mammal,Near Threatened,10,8,0,0,0
+GLC30,2004,Mammal,Threatened,24,11,0,0,0
+GLC30,2004,Mammal,Data Deficient,3,2,0,0,0
+GLC30,2004,Reptile,Least Concern,147,124,1,1,1
+GLC30,2004,Reptile,Near Threatened,7,5,0,0,0
+GLC30,2004,Reptile,Threatened,32,19,0,0,0
+GLC30,2004,Reptile,Data Deficient,5,2,0,0,0
+GLC30,2004,Amphibian,Least Concern,68,48,0,0,0
+GLC30,2004,Amphibian,Data Deficient,4,2,1,1,1
+GLC30,2005,Mammal,Least Concern,121,83,1,1,1
+GLC30,2005,Mammal,Near Threatened,10,8,0,0,0
+GLC30,2005,Mammal,Threatened,24,12,0,0,0
+GLC30,2005,Mammal,Data Deficient,3,2,0,0,0
+GLC30,2005,Reptile,Least Concern,147,125,1,1,1
+GLC30,2005,Reptile,Near Threatened,7,6,0,0,0
+GLC30,2005,Reptile,Threatened,32,23,0,0,0
+GLC30,2005,Reptile,Data Deficient,5,2,0,0,0
+GLC30,2005,Amphibian,Least Concern,68,49,0,0,0
+GLC30,2005,Amphibian,Data Deficient,4,1,1,1,1
+GLC30,2008,Mammal,Least Concern,121,91,1,1,1
+GLC30,2008,Mammal,Near Threatened,10,8,0,0,0
+GLC30,2008,Mammal,Threatened,24,12,0,0,0
+GLC30,2008,Mammal,Data Deficient,3,2,0,0,0
+GLC30,2008,Reptile,Least Concern,147,129,1,1,1
+GLC30,2008,Reptile,Near Threatened,7,6,0,0,0
+GLC30,2008,Reptile,Threatened,32,24,0,0,0
+GLC30,2008,Reptile,Data Deficient,5,3,0,0,0
+GLC30,2008,Amphibian,Least Concern,68,49,0,0,0
+GLC30,2008,Amphibian,Data Deficient,4,1,1,1,1
+GLC30,2010,Mammal,Least Concern,121,92,1,1,1
+GLC30,2010,Mammal,Near Threatened,10,8,0,0,0
+GLC30,2010,Mammal,Threatened,24,12,0,0,0
+GLC30,2010,Mammal,Data Deficient,3,1,0,0,0
+GLC30,2010,Reptile,Least Concern,147,128,2,1,1
+GLC30,2010,Reptile,Near Threatened,7,6,0,0,0
+GLC30,2010,Reptile,Threatened,32,24,0,0,0
+GLC30,2010,Reptile,Data Deficient,5,3,0,0,0
+GLC30,2010,Amphibian,Least Concern,68,49,0,0,0
+GLC30,2010,Amphibian,Data Deficient,4,2,1,1,1
+GLC30,2012,Mammal,Least Concern,121,92,2,1,1
+GLC30,2012,Mammal,Near Threatened,10,8,0,0,0
+GLC30,2012,Mammal,Threatened,24,12,0,0,0
+GLC30,2012,Mammal,Data Deficient,3,1,0,0,0
+GLC30,2012,Reptile,Least Concern,147,129,2,1,1
+GLC30,2012,Reptile,Near Threatened,7,6,0,0,0
+GLC30,2012,Reptile,Threatened,32,24,0,0,0
+GLC30,2012,Reptile,Data Deficient,5,3,0,0,0
+GLC30,2012,Amphibian,Least Concern,68,51,0,0,0
+GLC30,2012,Amphibian,Data Deficient,4,2,1,1,1
+GLC30,2015,Mammal,Least Concern,121,96,2,1,1
+GLC30,2015,Mammal,Near Threatened,10,8,0,0,0
+GLC30,2015,Mammal,Threatened,24,12,0,0,0
+GLC30,2015,Mammal,Data Deficient,3,2,0,0,0
+GLC30,2015,Reptile,Least Concern,147,134,4,1,1
+GLC30,2015,Reptile,Near Threatened,7,6,0,0,0
+GLC30,2015,Reptile,Threatened,32,26,0,0,0
+GLC30,2015,Reptile,Data Deficient,5,3,0,0,0
+GLC30,2015,Amphibian,Least Concern,68,51,0,0,0
+GLC30,2015,Amphibian,Data Deficient,4,2,1,1,1
+GLC30,2016,Mammal,Least Concern,121,96,2,1,1
+GLC30,2016,Mammal,Near Threatened,10,8,0,0,0
+GLC30,2016,Mammal,Threatened,24,12,0,0,0
+GLC30,2016,Mammal,Data Deficient,3,2,0,0,0
+GLC30,2016,Reptile,Least Concern,147,134,4,1,1
+GLC30,2016,Reptile,Near Threatened,7,6,0,0,0
+GLC30,2016,Reptile,Threatened,32,26,0,0,0
+GLC30,2016,Reptile,Data Deficient,5,3,0,0,0
+GLC30,2016,Amphibian,Least Concern,68,51,0,0,0
+GLC30,2016,Amphibian,Data Deficient,4,2,1,1,1
+GLC30,2020,Mammal,Least Concern,121,96,2,1,1
+GLC30,2020,Mammal,Near Threatened,10,8,0,0,0
+GLC30,2020,Mammal,Threatened,24,12,0,0,0
+GLC30,2020,Mammal,Data Deficient,3,1,0,0,0
+GLC30,2020,Reptile,Least Concern,147,135,4,1,1
+GLC30,2020,Reptile,Near Threatened,7,6,0,0,0
+GLC30,2020,Reptile,Threatened,32,25,0,0,0
+GLC30,2020,Reptile,Data Deficient,5,3,0,0,0
+GLC30,2020,Amphibian,Least Concern,68,51,0,0,0
+GLC30,2020,Amphibian,Data Deficient,4,2,1,1,1

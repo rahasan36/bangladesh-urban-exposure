@@ -1,0 +1,86 @@
+representation,year,cell,urban_km2,share_of_native_pct
+"GLC_FCS30D, plurality rule",2000,30 m,2469.9,100.0
+"GLC_FCS30D, plurality rule",2000,90 m,1474.8,59.7
+"GLC_FCS30D, plurality rule",2000,300 m,769.1,31.1
+"GLC_FCS30D, plurality rule",2000,510 m,641.7,26.0
+"GLC_FCS30D, plurality rule",2000,990 m,559.1,22.6
+"GLC_FCS30D, plurality rule",2005,30 m,2920.5,100.0
+"GLC_FCS30D, plurality rule",2005,90 m,1859.7,63.7
+"GLC_FCS30D, plurality rule",2005,300 m,1021.0,35.0
+"GLC_FCS30D, plurality rule",2005,510 m,864.8,29.6
+"GLC_FCS30D, plurality rule",2005,990 m,738.8,25.3
+"GLC_FCS30D, plurality rule",2010,30 m,3119.0,100.0
+"GLC_FCS30D, plurality rule",2010,90 m,2092.1,67.1
+"GLC_FCS30D, plurality rule",2010,300 m,1210.9,38.8
+"GLC_FCS30D, plurality rule",2010,510 m,1041.2,33.4
+"GLC_FCS30D, plurality rule",2010,990 m,900.3,28.9
+"GLC_FCS30D, plurality rule",2015,30 m,3639.1,100.0
+"GLC_FCS30D, plurality rule",2015,90 m,2522.0,69.3
+"GLC_FCS30D, plurality rule",2015,300 m,1479.6,40.7
+"GLC_FCS30D, plurality rule",2015,510 m,1273.5,35.0
+"GLC_FCS30D, plurality rule",2015,990 m,1097.9,30.2
+"GLC_FCS30D, plurality rule",2020,30 m,3815.3,100.0
+"GLC_FCS30D, plurality rule",2020,90 m,2740.3,71.8
+"GLC_FCS30D, plurality rule",2020,300 m,1650.5,43.3
+"GLC_FCS30D, plurality rule",2020,510 m,1432.0,37.5
+"GLC_FCS30D, plurality rule",2020,990 m,1239.7,32.5
+"GHSL-derived, built ≥ 5%",2000,100 m,9842.6,100.0
+"GHSL-derived, built ≥ 5%",2000,300 m,5260.0,53.4
+"GHSL-derived, built ≥ 5%",2000,500 m,3333.6,33.9
+"GHSL-derived, built ≥ 5%",2000,1000 m,1941.1,19.7
+"GHSL-derived, built ≥ 5%",2010,100 m,12346.5,100.0
+"GHSL-derived, built ≥ 5%",2010,300 m,7188.0,58.2
+"GHSL-derived, built ≥ 5%",2010,500 m,4577.7,37.1
+"GHSL-derived, built ≥ 5%",2010,1000 m,2560.7,20.7
+"GHSL-derived, built ≥ 5%",2020,100 m,15711.8,100.0
+"GHSL-derived, built ≥ 5%",2020,300 m,9020.7,57.4
+"GHSL-derived, built ≥ 5%",2020,500 m,5697.2,36.3
+"GHSL-derived, built ≥ 5%",2020,1000 m,3072.0,19.6
+"GHSL-derived, built ≥ 10%",2000,100 m,5364.2,100.0
+"GHSL-derived, built ≥ 10%",2000,300 m,2516.3,46.9
+"GHSL-derived, built ≥ 10%",2000,500 m,1679.4,31.3
+"GHSL-derived, built ≥ 10%",2000,1000 m,1162.6,21.7
+"GHSL-derived, built ≥ 10%",2010,100 m,6800.1,100.0
+"GHSL-derived, built ≥ 10%",2010,300 m,3414.4,50.2
+"GHSL-derived, built ≥ 10%",2010,500 m,2254.1,33.1
+"GHSL-derived, built ≥ 10%",2010,1000 m,1516.7,22.3
+"GHSL-derived, built ≥ 10%",2020,100 m,8258.5,100.0
+"GHSL-derived, built ≥ 10%",2020,300 m,3979.1,48.2
+"GHSL-derived, built ≥ 10%",2020,500 m,2589.8,31.4
+"GHSL-derived, built ≥ 10%",2020,1000 m,1694.7,20.5
+"GHSL-derived, built ≥ 20%",2000,100 m,2099.0,100.0
+"GHSL-derived, built ≥ 20%",2000,300 m,972.4,46.3
+"GHSL-derived, built ≥ 20%",2000,500 m,745.8,35.5
+"GHSL-derived, built ≥ 20%",2000,1000 m,595.3,28.4
+"GHSL-derived, built ≥ 20%",2010,100 m,2676.2,100.0
+"GHSL-derived, built ≥ 20%",2010,300 m,1311.2,49.0
+"GHSL-derived, built ≥ 20%",2010,500 m,1031.7,38.6
+"GHSL-derived, built ≥ 20%",2010,1000 m,817.6,30.6
+"GHSL-derived, built ≥ 20%",2020,100 m,3092.5,100.0
+"GHSL-derived, built ≥ 20%",2020,300 m,1487.8,48.1
+"GHSL-derived, built ≥ 20%",2020,500 m,1163.5,37.6
+"GHSL-derived, built ≥ 20%",2020,1000 m,926.6,30.0
+"GHSL-derived, built ≥ 30%",2000,100 m,920.8,100.0
+"GHSL-derived, built ≥ 30%",2000,300 m,441.1,47.9
+"GHSL-derived, built ≥ 30%",2000,500 m,375.5,40.8
+"GHSL-derived, built ≥ 30%",2000,1000 m,298.7,32.4
+"GHSL-derived, built ≥ 30%",2010,100 m,1181.7,100.0
+"GHSL-derived, built ≥ 30%",2010,300 m,599.2,50.7
+"GHSL-derived, built ≥ 30%",2010,500 m,514.0,43.5
+"GHSL-derived, built ≥ 30%",2010,1000 m,415.1,35.1
+"GHSL-derived, built ≥ 30%",2020,100 m,1373.3,100.0
+"GHSL-derived, built ≥ 30%",2020,300 m,709.2,51.6
+"GHSL-derived, built ≥ 30%",2020,500 m,610.9,44.5
+"GHSL-derived, built ≥ 30%",2020,1000 m,492.2,35.8
+"GHSL-derived, built ≥ 50%",2000,100 m,76.0,100.0
+"GHSL-derived, built ≥ 50%",2000,300 m,9.4,12.3
+"GHSL-derived, built ≥ 50%",2000,500 m,2.0,2.6
+"GHSL-derived, built ≥ 50%",2000,1000 m,0.0,0.0
+"GHSL-derived, built ≥ 50%",2010,100 m,94.3,100.0
+"GHSL-derived, built ≥ 50%",2010,300 m,12.2,12.9
+"GHSL-derived, built ≥ 50%",2010,500 m,3.0,3.2
+"GHSL-derived, built ≥ 50%",2010,1000 m,0.0,0.0
+"GHSL-derived, built ≥ 50%",2020,100 m,126.2,100.0
+"GHSL-derived, built ≥ 50%",2020,300 m,16.5,13.1
+"GHSL-derived, built ≥ 50%",2020,500 m,3.5,2.8
+"GHSL-derived, built ≥ 50%",2020,1000 m,0.0,0.0

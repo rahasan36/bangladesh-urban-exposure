@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+data/raw/
+data/sdm_work/
+data/pipeline/logs/
+data/pipeline/Harmonized/GLC30_*.tif
+data/pipeline/Species/species_ranges_bgd.geojson
+data/multires/GLC_f*.tif
+data/multires/GHSL_f*.tif
+data/multires/GHSL_land100.tif
+data/multires/ghsl/
+data/multires/*_partial.csv
+*.npy
+*.npz

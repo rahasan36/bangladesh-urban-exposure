@@ -1,0 +1,101 @@
+dataset,year_from,year_to,from_id,from_name,to_id,to_name,area_km2
+ESA300,1992,1996,1,Urban,1,Urban,207.99083472212686
+ESA300,1992,1996,1,Urban,2,Cropland,0.0
+ESA300,1992,1996,1,Urban,3,Mosaic cropland-natural,0.0
+ESA300,1992,1996,1,Urban,4,Forest,0.0
+ESA300,1992,1996,1,Urban,5,Flooded forest,0.0
+ESA300,1992,1996,1,Urban,6,Shrubland,0.0
+ESA300,1992,1996,1,Urban,7,Grassland,0.0
+ESA300,1992,1996,1,Urban,8,Wetland,0.0
+ESA300,1992,1996,1,Urban,9,Bare/sparse,0.0
+ESA300,1992,1996,1,Urban,10,Water,0.0
+ESA300,1992,1996,2,Cropland,1,Urban,9.998512022655705
+ESA300,1992,1996,2,Cropland,2,Cropland,99351.55423711636
+ESA300,1992,1996,2,Cropland,3,Mosaic cropland-natural,0.0
+ESA300,1992,1996,2,Cropland,4,Forest,7.568493771705659
+ESA300,1992,1996,2,Cropland,5,Flooded forest,44.51298442782038
+ESA300,1992,1996,2,Cropland,6,Shrubland,0.782697108312496
+ESA300,1992,1996,2,Cropland,7,Grassland,0.7813581607764885
+ESA300,1992,1996,2,Cropland,8,Wetland,0.0
+ESA300,1992,1996,2,Cropland,9,Bare/sparse,0.2609212796401648
+ESA300,1992,1996,2,Cropland,10,Water,10.441445969674918
+ESA300,1992,1996,3,Mosaic cropland-natural,1,Urban,1.2238627879261321
+ESA300,1992,1996,3,Mosaic cropland-natural,2,Cropland,0.0
+ESA300,1992,1996,3,Mosaic cropland-natural,3,Mosaic cropland-natural,3795.8013543524326
+ESA300,1992,1996,3,Mosaic cropland-natural,4,Forest,12.142852023736113
+ESA300,1992,1996,3,Mosaic cropland-natural,5,Flooded forest,84.90595981608976
+ESA300,1992,1996,3,Mosaic cropland-natural,6,Shrubland,0.2589690120934051
+ESA300,1992,1996,3,Mosaic cropland-natural,7,Grassland,0.0
+ESA300,1992,1996,3,Mosaic cropland-natural,8,Wetland,0.0
+ESA300,1992,1996,3,Mosaic cropland-natural,9,Bare/sparse,0.2592989267404288
+ESA300,1992,1996,3,Mosaic cropland-natural,10,Water,14.955705621669237
+ESA300,1992,1996,4,Forest,1,Urban,0.0
+ESA300,1992,1996,4,Forest,2,Cropland,0.0
+ESA300,1992,1996,4,Forest,3,Mosaic cropland-natural,0.7037619841459825
+ESA300,1992,1996,4,Forest,4,Forest,12011.428622773054
+ESA300,1992,1996,4,Forest,5,Flooded forest,0.0
+ESA300,1992,1996,4,Forest,6,Shrubland,3.431957315337596
+ESA300,1992,1996,4,Forest,7,Grassland,0.0
+ESA300,1992,1996,4,Forest,8,Wetland,0.26356113401183484
+ESA300,1992,1996,4,Forest,9,Bare/sparse,0.0
+ESA300,1992,1996,4,Forest,10,Water,7.6539551937394315
+ESA300,1992,1996,5,Flooded forest,1,Urban,0.0
+ESA300,1992,1996,5,Flooded forest,2,Cropland,238.9444488761499
+ESA300,1992,1996,5,Flooded forest,3,Mosaic cropland-natural,3.8814996803863915
+ESA300,1992,1996,5,Flooded forest,4,Forest,5.912285112565169
+ESA300,1992,1996,5,Flooded forest,5,Flooded forest,4016.753992061119
+ESA300,1992,1996,5,Flooded forest,6,Shrubland,0.6179668401326157
+ESA300,1992,1996,5,Flooded forest,7,Grassland,1.4106662654928854
+ESA300,1992,1996,5,Flooded forest,8,Wetland,0.0
+ESA300,1992,1996,5,Flooded forest,9,Bare/sparse,0.0
+ESA300,1992,1996,5,Flooded forest,10,Water,30.304804452795295
+ESA300,1992,1996,6,Shrubland,1,Urban,0.0
+ESA300,1992,1996,6,Shrubland,2,Cropland,136.18259472894573
+ESA300,1992,1996,6,Shrubland,3,Mosaic cropland-natural,10.701448288313385
+ESA300,1992,1996,6,Shrubland,4,Forest,33.0285374821533
+ESA300,1992,1996,6,Shrubland,5,Flooded forest,33.466838863451876
+ESA300,1992,1996,6,Shrubland,6,Shrubland,5271.574139142632
+ESA300,1992,1996,6,Shrubland,7,Grassland,0.08867613809816186
+ESA300,1992,1996,6,Shrubland,8,Wetland,0.0
+ESA300,1992,1996,6,Shrubland,9,Bare/sparse,0.0
+ESA300,1992,1996,6,Shrubland,10,Water,0.0
+ESA300,1992,1996,7,Grassland,1,Urban,0.436478309865943
+ESA300,1992,1996,7,Grassland,2,Cropland,320.2662905553387
+ESA300,1992,1996,7,Grassland,3,Mosaic cropland-natural,1.5668688857671906
+ESA300,1992,1996,7,Grassland,4,Forest,0.0
+ESA300,1992,1996,7,Grassland,5,Flooded forest,2.300306513230726
+ESA300,1992,1996,7,Grassland,6,Shrubland,0.0
+ESA300,1992,1996,7,Grassland,7,Grassland,1441.1538783319504
+ESA300,1992,1996,7,Grassland,8,Wetland,0.0
+ESA300,1992,1996,7,Grassland,9,Bare/sparse,0.0
+ESA300,1992,1996,7,Grassland,10,Water,45.935955827201035
+ESA300,1992,1996,8,Wetland,1,Urban,0.0
+ESA300,1992,1996,8,Wetland,2,Cropland,0.0
+ESA300,1992,1996,8,Wetland,3,Mosaic cropland-natural,0.0
+ESA300,1992,1996,8,Wetland,4,Forest,1.2301852908142716
+ESA300,1992,1996,8,Wetland,5,Flooded forest,0.08782964815181278
+ESA300,1992,1996,8,Wetland,6,Shrubland,0.0
+ESA300,1992,1996,8,Wetland,7,Grassland,0.0
+ESA300,1992,1996,8,Wetland,8,Wetland,353.9963285209258
+ESA300,1992,1996,8,Wetland,9,Bare/sparse,0.0
+ESA300,1992,1996,8,Wetland,10,Water,0.0
+ESA300,1992,1996,9,Bare/sparse,1,Urban,0.0
+ESA300,1992,1996,9,Bare/sparse,2,Cropland,0.0
+ESA300,1992,1996,9,Bare/sparse,3,Mosaic cropland-natural,0.0
+ESA300,1992,1996,9,Bare/sparse,4,Forest,0.0
+ESA300,1992,1996,9,Bare/sparse,5,Flooded forest,0.0
+ESA300,1992,1996,9,Bare/sparse,6,Shrubland,0.0
+ESA300,1992,1996,9,Bare/sparse,7,Grassland,0.0
+ESA300,1992,1996,9,Bare/sparse,8,Wetland,0.0
+ESA300,1992,1996,9,Bare/sparse,9,Bare/sparse,68.06346601954596
+ESA300,1992,1996,9,Bare/sparse,10,Water,0.0
+ESA300,1992,1996,10,Water,1,Urban,0.08728601235794205
+ESA300,1992,1996,10,Water,2,Cropland,37.972269955213264
+ESA300,1992,1996,10,Water,3,Mosaic cropland-natural,5.245991693678568
+ESA300,1992,1996,10,Water,4,Forest,1.673977549863393
+ESA300,1992,1996,10,Water,5,Flooded forest,5.664155605793319
+ESA300,1992,1996,10,Water,6,Shrubland,0.0
+ESA300,1992,1996,10,Water,7,Grassland,20.039183248780734
+ESA300,1992,1996,10,Water,8,Wetland,0.7905805725966554
+ESA300,1992,1996,10,Water,9,Bare/sparse,3.9897918656316405
+ESA300,1992,1996,10,Water,10,Water,12881.272773201392

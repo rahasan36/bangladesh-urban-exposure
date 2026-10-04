@@ -1,0 +1,76 @@
+feature_type,feature_id,name,iucn_cat,designation,realm,status_yr,gis_area_km2
+PA,4470,Char Kukri-Mukri,IV,Wildlife Sanctuary,Terrestrial,1981,50.6110657246
+PA,4471,Hajarikhil,II,Wildlife Sanctuary,Terrestrial,2010,24.4418206872
+PA,4474,Kaptai,II,National Park,Terrestrial,1999,57.3896924748
+PA,4476,Sundarban East,Ib,Wildlife Sanctuary,Coastal,2017,1227.18970004
+PA,4477,Sundarban South,Ib,Wildlife Sanctuary,Coastal,2017,751.069491935
+PA,4478,Sundarban West,Ib,Wildlife Sanctuary,Coastal,2017,1193.95300134
+PA,4479,Bhawal,IV,National Park,Terrestrial,1982,95.1238745518
+PA,4480,Himchari,IV,National Park,Terrestrial,1980,20.1827946944
+PA,4481,Madhupur,IV,National Park,Terrestrial,1982,83.0554175438
+PA,7972,Ramsagar,IV,National Park,Terrestrial,2001,0.335355544716
+PA,9279,Rema-Kalenga,II,Wildlife Sanctuary,Terrestrial,1981,62.3219485775
+PA,9280,Pablakhali,II,Wildlife Sanctuary,Terrestrial,1983,435.427475822
+PA,9281,Teknaf,IV,Wildlife Sanctuary,Terrestrial,2009,113.829551485
+PA,12196,Chunati,IV,Wildlife Sanctuary,Terrestrial,1986,84.4381850115
+PA,67808,Sundarbans Reserved Forest,Not Reported,Wetland of International Importance (Ramsar Site),Coastal,1992,4953.28568606
+PA,142993,Lawachara,II,National Park,Terrestrial,1996,12.2120177516
+PA,145580,The Sundarbans,Not Applicable,World Heritage Site (natural or mixed),Coastal,1997,1719.9328947
+PA,317318,Nijhum Dweep,IV,National Park,Coastal,2001,161.873568527
+PA,555543040,Satchari,II,National Park,Terrestrial,2005,2.43124996077
+PA,555543041,Fasiakhali,IV,Wildlife Sanctuary,Terrestrial,2007,20.66995271
+PA,555543042,Baraiyadhala,II,National Park,Terrestrial,2010,29.1222208052
+PA,555543043,Dudpukuria-Dhopachari,IV,Wildlife Sanctuary,Terrestrial,2010,48.7777366265
+PA,555543260,Khadimnagar,IV,National Park,Terrestrial,2006,7.21116396318
+PA,555543261,Medhakachhapia,IV,National Park,Terrestrial,2004,3.73523207821
+PA,555576098,Tengragiri,II,Wildlife Sanctuary,Terrestrial,2010,25.9672261368
+PA,555576099,Altadighi,IV,National Park,Terrestrial,2011,2.45003390688
+PA,555576100,Birganj,IV,National Park,Terrestrial,2011,0.810329651028
+PA,555576101,Kadigarh,IV,National Park,Terrestrial,2010,4.13614688797
+PA,555576102,Kuakata,II,National Park,Terrestrial,2010,11.6624551343
+PA,555576103,Nababganj,IV,National Park,Terrestrial,2010,6.89099335594
+PA,555576104,Nagarbari-Mohonganj,VI,Wildlife (Dolphin) Sanctuary,Marine,2013,3.75734904201
+PA,555576105,Nazirganj,VI,Wildlife (Dolphin) Sanctuary,Coastal,2013,1.68599682562
+PA,555576106,Sangu,II,Wildlife Sanctuary,Terrestrial,2010,59.3559151124
+PA,555576107,Silonda-Nagdemra,VI,Wildlife (Dolphin) Sanctuary,Terrestrial,2013,0.240130428494
+PA,555576108,Singra,IV,National Park,Terrestrial,2010,3.51001282725
+PA,555576109,Sonarchar,II,Wildlife Sanctuary,Terrestrial,2011,19.6266474387
+PA,555576110,Dudmukhi,II,Wildlife (Dolphin) Sanctuary,Marine,2012,1.2592692828
+PA,555576111,Chandpai,II,Wildlife (Dolphin) Sanctuary,Marine,2012,5.13421183087
+PA,555576112,Dhangmari,II,Wildlife (Dolphin) Sanctuary,Coastal,2012,2.95983228143
+PA,555587049,Inani,Not Reported,National Park,Terrestrial,2019,76.521128976
+PA,555587050,National Botanical Garden,Not Reported,Botanical Garden,Terrestrial,2018,0.776951685414
+PA,555587054,Tilagar,Not Reported,Eco Park,Terrestrial,2019,0.446738690543
+PA,555744920,Nijhum Dwip Marine Reserve/Marine Protected Area,Not Reported,Marine Reserve/Marine Protected Area,Marine,2019,3183.27169845
+PA,555751333,Vadra,Not Reported,Wildlife (Dolphin) Sanctuary,Marine,2020,5.21166728049
+PA,555751334,Shibsha,Not Reported,Wildlife (Dolphin) Sanctuary,Marine,2020,19.9464709918
+PA,555751335,Pankhali,Not Reported,Wildlife (Dolphin) Sanctuary,Coastal,2020,1.47570686354
+PA,555751336,Ratargul,Not Reported,Special Biodiversity Conservation Area,Terrestrial,2015,1.96378005552
+PA,555751338,Char Muguria,Not Reported,Eco Park,Terrestrial,2015,0.0730536269468
+PA,555751340,Padma Setu,Not Reported,Wildlife Sanctuary,Coastal,2020,116.488406595
+PA,555751341,Saint Martin,Not Reported,Marine Protected Area,Marine,2021,1746.60003587
+PA,555751342,Dharmapur,Not Reported,National Park,Terrestrial,2021,7.35418673555
+PA,555799976,Purbachal,Not Reported,Special Biodiversity Conservation Area,Terrestrial,2025,0.584836576236
+PA,555799977,Madhutila,Not Reported,Eco Park,Terrestrial,2023,1.06678884414
+PA,555799978,Baishari Bangdepa,IV,Wildlife Sanctuary,Terrestrial,2023,22.687678812
+PA,555799979,NAF Marine Protected Area,Not Reported,Marine Protected Area,Marine,2024,723.602001663
+KBA,15220,Madhupur National Park,KBA,KBA,,2009,84.66813549239197
+KBA,15221,Tanguar Haor and Panabeel,KBA,KBA,,2009,69.5054897299067
+KBA,15222,Aila Beel,KBA,KBA,,2009,11.900357438635837
+KBA,15223,Hakaluki Haor,KBA,KBA,,2009,192.13924558508737
+KBA,15224,Lawachara / West Bhanugach Reserved Forest,KBA,KBA,,2009,12.209350209874287
+KBA,15225,Hail Haor,KBA,KBA,,2009,217.91138077456233
+KBA,15226,Rajkandi Reserved Forest,KBA,KBA,,2009,72.72967702379026
+KBA,15227,Rema-Kalenga Wildlife Sanctuary,KBA,KBA,,2009,17.850582840390945
+KBA,15228,Jamuna-Brahmaputra river,KBA,KBA,,2009,2820.5314336343577
+KBA,15229,"Sunderbans (East, South, West Wildlife Sanctuaries)",KBA,KBA,,2009,1569.7645651414773
+KBA,15230,Ganges-Brahmaputra-Meghna delta,KBA,KBA,,2009,6777.188578610205
+KBA,15231,Muhuri Dam,KBA,KBA,,2009,13.426851582489421
+KBA,15232,Hazarikhil Wildlife Sanctuary,KBA,KBA,,2009,15.363962402037904
+KBA,15233,Pablakhali Wildlife Sanctuary,KBA,KBA,,2009,235.501255861185
+KBA,15234,Rampahar-Sitapahar Wildlife Sanctuary,KBA,KBA,,2009,62.43234032098984
+KBA,15235,Patenga Beach,KBA,KBA,,2009,4.022883499748293
+KBA,15236,Sangu Matamuhari,KBA,KBA,,2009,762.9738521918766
+KBA,15237,Himchari National Park,KBA,KBA,,2009,15.219569153121773
+KBA,15238,Teknaf Game Reserve,KBA,KBA,,2009,114.3384694398518
+KBA,31488,Sonadia Island,KBA,KBA,,2020,29.80071728125378

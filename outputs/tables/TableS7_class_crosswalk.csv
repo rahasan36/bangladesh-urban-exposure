@@ -1,0 +1,20 @@
+﻿Product,Source codes,Common class
+GLC_FCS30D,"10, 11, 12, 20",Cropland
+GLC_FCS30D,"51, 52, 61, 62, 71, 72, 81, 82, 91, 92",Forest
+GLC_FCS30D,"120, 121, 122",Shrubland
+GLC_FCS30D,130,Grassland
+GLC_FCS30D,"140, 150, 152, 153, 200, 201, 202, 220",Bare or sparse
+GLC_FCS30D,"180, 182, 183, 184, 186, 187",Wetland
+GLC_FCS30D,"181, 185",Flooded forest
+GLC_FCS30D,190,Urban
+GLC_FCS30D,210,Water
+ESA CCI,"10, 11, 12, 20",Cropland
+ESA CCI,"30, 40",Mosaic cropland and natural vegetation
+ESA CCI,"50, 60, 61, 62, 70, 71, 72, 80, 81, 82, 90, 100",Forest
+ESA CCI,"110, 130",Grassland
+ESA CCI,"120, 121, 122",Shrubland
+ESA CCI,"140, 150, 151, 152, 153, 200, 201, 202, 220",Bare or sparse
+ESA CCI,"160, 170",Flooded forest
+ESA CCI,180,Wetland
+ESA CCI,190,Urban
+ESA CCI,210,Water

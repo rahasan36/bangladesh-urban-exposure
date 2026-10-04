@@ -1,0 +1,101 @@
+dataset,year_from,year_to,from_id,from_name,to_id,to_name,area_km2
+ESA300,2016,2020,1,Urban,1,Urban,1084.7416011206049
+ESA300,2016,2020,1,Urban,2,Cropland,0.0
+ESA300,2016,2020,1,Urban,3,Mosaic cropland-natural,0.0
+ESA300,2016,2020,1,Urban,4,Forest,0.0
+ESA300,2016,2020,1,Urban,5,Flooded forest,0.0
+ESA300,2016,2020,1,Urban,6,Shrubland,0.0
+ESA300,2016,2020,1,Urban,7,Grassland,0.0
+ESA300,2016,2020,1,Urban,8,Wetland,0.0
+ESA300,2016,2020,1,Urban,9,Bare/sparse,0.0
+ESA300,2016,2020,1,Urban,10,Water,0.0
+ESA300,2016,2020,2,Cropland,1,Urban,42.162496901924925
+ESA300,2016,2020,2,Cropland,2,Cropland,99178.9879964969
+ESA300,2016,2020,2,Cropland,3,Mosaic cropland-natural,0.0
+ESA300,2016,2020,2,Cropland,4,Forest,393.4290094565753
+ESA300,2016,2020,2,Cropland,5,Flooded forest,16.791545405124992
+ESA300,2016,2020,2,Cropland,6,Shrubland,0.0
+ESA300,2016,2020,2,Cropland,7,Grassland,6.5259320722244745
+ESA300,2016,2020,2,Cropland,8,Wetland,0.0
+ESA300,2016,2020,2,Cropland,9,Bare/sparse,9.366236346943472
+ESA300,2016,2020,2,Cropland,10,Water,8.340037833914995
+ESA300,2016,2020,3,Mosaic cropland-natural,1,Urban,7.770412640970477
+ESA300,2016,2020,3,Mosaic cropland-natural,2,Cropland,0.0
+ESA300,2016,2020,3,Mosaic cropland-natural,3,Mosaic cropland-natural,3329.763350237271
+ESA300,2016,2020,3,Mosaic cropland-natural,4,Forest,247.77753413782597
+ESA300,2016,2020,3,Mosaic cropland-natural,5,Flooded forest,0.696093240959925
+ESA300,2016,2020,3,Mosaic cropland-natural,6,Shrubland,0.0
+ESA300,2016,2020,3,Mosaic cropland-natural,7,Grassland,0.0
+ESA300,2016,2020,3,Mosaic cropland-natural,8,Wetland,0.0
+ESA300,2016,2020,3,Mosaic cropland-natural,9,Bare/sparse,0.0
+ESA300,2016,2020,3,Mosaic cropland-natural,10,Water,0.17381510806201259
+ESA300,2016,2020,4,Forest,1,Urban,0.3515640152217224
+ESA300,2016,2020,4,Forest,2,Cropland,19.06674283225163
+ESA300,2016,2020,4,Forest,3,Mosaic cropland-natural,0.0
+ESA300,2016,2020,4,Forest,4,Forest,13046.33233374155
+ESA300,2016,2020,4,Forest,5,Flooded forest,0.7022169541051146
+ESA300,2016,2020,4,Forest,6,Shrubland,2.3028815007250802
+ESA300,2016,2020,4,Forest,7,Grassland,1.7581905991714617
+ESA300,2016,2020,4,Forest,8,Wetland,2.985817499853424
+ESA300,2016,2020,4,Forest,9,Bare/sparse,0.0
+ESA300,2016,2020,4,Forest,10,Water,1.5844695879409947
+ESA300,2016,2020,5,Flooded forest,1,Urban,0.08837089196737284
+ESA300,2016,2020,5,Flooded forest,2,Cropland,3.5262744700275985
+ESA300,2016,2020,5,Flooded forest,3,Mosaic cropland-natural,0.6173353819115744
+ESA300,2016,2020,5,Flooded forest,4,Forest,3.2545780687227834
+ESA300,2016,2020,5,Flooded forest,5,Flooded forest,4195.658304152896
+ESA300,2016,2020,5,Flooded forest,6,Shrubland,0.0
+ESA300,2016,2020,5,Flooded forest,7,Grassland,0.35167698757110977
+ESA300,2016,2020,5,Flooded forest,8,Wetland,0.0
+ESA300,2016,2020,5,Flooded forest,9,Bare/sparse,0.0
+ESA300,2016,2020,5,Flooded forest,10,Water,0.2614532946889473
+ESA300,2016,2020,6,Shrubland,1,Urban,0.0
+ESA300,2016,2020,6,Shrubland,2,Cropland,7.792484905979965
+ESA300,2016,2020,6,Shrubland,3,Mosaic cropland-natural,40.40777385807161
+ESA300,2016,2020,6,Shrubland,4,Forest,180.30940216912356
+ESA300,2016,2020,6,Shrubland,5,Flooded forest,0.2664356071104899
+ESA300,2016,2020,6,Shrubland,6,Shrubland,4287.176985746486
+ESA300,2016,2020,6,Shrubland,7,Grassland,2.6684335727797612
+ESA300,2016,2020,6,Shrubland,8,Wetland,0.0
+ESA300,2016,2020,6,Shrubland,9,Bare/sparse,0.0
+ESA300,2016,2020,6,Shrubland,10,Water,0.0
+ESA300,2016,2020,7,Grassland,1,Urban,1.4826023406451907
+ESA300,2016,2020,7,Grassland,2,Cropland,3.984142113906055
+ESA300,2016,2020,7,Grassland,3,Mosaic cropland-natural,0.0
+ESA300,2016,2020,7,Grassland,4,Forest,1.3137328104299932
+ESA300,2016,2020,7,Grassland,5,Flooded forest,0.8774224355526471
+ESA300,2016,2020,7,Grassland,6,Shrubland,0.0
+ESA300,2016,2020,7,Grassland,7,Grassland,1118.1563414190568
+ESA300,2016,2020,7,Grassland,8,Wetland,0.0
+ESA300,2016,2020,7,Grassland,9,Bare/sparse,0.6955593205623274
+ESA300,2016,2020,7,Grassland,10,Water,0.17325171518090873
+ESA300,2016,2020,8,Wetland,1,Urban,0.0
+ESA300,2016,2020,8,Wetland,2,Cropland,0.0
+ESA300,2016,2020,8,Wetland,3,Mosaic cropland-natural,0.0
+ESA300,2016,2020,8,Wetland,4,Forest,4.218629826360205
+ESA300,2016,2020,8,Wetland,5,Flooded forest,0.2607061690063589
+ESA300,2016,2020,8,Wetland,6,Shrubland,0.0
+ESA300,2016,2020,8,Wetland,7,Grassland,0.0
+ESA300,2016,2020,8,Wetland,8,Wetland,353.0909354546823
+ESA300,2016,2020,8,Wetland,9,Bare/sparse,0.0
+ESA300,2016,2020,8,Wetland,10,Water,0.0
+ESA300,2016,2020,9,Bare/sparse,1,Urban,0.08751410433957386
+ESA300,2016,2020,9,Bare/sparse,2,Cropland,2.164881764392752
+ESA300,2016,2020,9,Bare/sparse,3,Mosaic cropland-natural,0.0
+ESA300,2016,2020,9,Bare/sparse,4,Forest,0.0
+ESA300,2016,2020,9,Bare/sparse,5,Flooded forest,0.0
+ESA300,2016,2020,9,Bare/sparse,6,Shrubland,0.0
+ESA300,2016,2020,9,Bare/sparse,7,Grassland,0.0
+ESA300,2016,2020,9,Bare/sparse,8,Wetland,0.0
+ESA300,2016,2020,9,Bare/sparse,9,Bare/sparse,301.0984221737299
+ESA300,2016,2020,9,Bare/sparse,10,Water,0.435327522348568
+ESA300,2016,2020,10,Water,1,Urban,0.0
+ESA300,2016,2020,10,Water,2,Cropland,20.489805726636327
+ESA300,2016,2020,10,Water,3,Mosaic cropland-natural,0.0
+ESA300,2016,2020,10,Water,4,Forest,0.0
+ESA300,2016,2020,10,Water,5,Flooded forest,0.0
+ESA300,2016,2020,10,Water,6,Shrubland,0.0
+ESA300,2016,2020,10,Water,7,Grassland,5.498652418104937
+ESA300,2016,2020,10,Water,8,Wetland,0.0
+ESA300,2016,2020,10,Water,9,Bare/sparse,9.426595166916508
+ESA300,2016,2020,10,Water,10,Water,12594.118531739365

@@ -1,0 +1,37 @@
+﻿Neighborhood,Rule,Product,Surface,Urban hotspot (km²),Observed (%),Expected (%),Ratio
+3 by 3,z>2.58,GLC_FCS30D 30 m,threatened richness,6311.0,13.9,16.9,0.82
+3 by 3,z>2.58,GLC_FCS30D 30 m,irreplaceability ≥ 1,6311.0,14.0,6.3,2.21
+3 by 3,z>2.58,GHSL 100 m,threatened richness,8428.0,9.8,16.9,0.58
+3 by 3,z>2.58,GHSL 100 m,irreplaceability ≥ 1,8428.0,6.8,6.3,1.07
+3 by 3,z>2.58,ESA CCI 300 m,threatened richness,2246.0,16.4,16.9,0.97
+3 by 3,z>2.58,ESA CCI 300 m,irreplaceability ≥ 1,2246.0,16.2,6.3,2.56
+3 by 3,FDR q=0.01,GLC_FCS30D 30 m,threatened richness,4251.0,11.2,14.7,0.76
+3 by 3,FDR q=0.01,GLC_FCS30D 30 m,irreplaceability ≥ 1,4251.0,16.3,6.3,2.57
+3 by 3,FDR q=0.01,GHSL 100 m,threatened richness,5428.0,8.5,14.7,0.58
+3 by 3,FDR q=0.01,GHSL 100 m,irreplaceability ≥ 1,5428.0,7.7,6.3,1.21
+3 by 3,FDR q=0.01,ESA CCI 300 m,threatened richness,1598.0,13.5,14.7,0.91
+3 by 3,FDR q=0.01,ESA CCI 300 m,irreplaceability ≥ 1,1598.0,18.6,6.3,2.93
+5 by 5,z>2.58,GLC_FCS30D 30 m,threatened richness,10741.0,21.8,23.3,0.93
+5 by 5,z>2.58,GLC_FCS30D 30 m,irreplaceability ≥ 1,10741.0,11.7,6.3,1.84
+5 by 5,z>2.58,GHSL 100 m,threatened richness,14345.0,15.5,23.3,0.67
+5 by 5,z>2.58,GHSL 100 m,irreplaceability ≥ 1,14345.0,6.5,6.3,1.02
+5 by 5,z>2.58,ESA CCI 300 m,threatened richness,3654.0,29.4,23.3,1.26
+5 by 5,z>2.58,ESA CCI 300 m,irreplaceability ≥ 1,3654.0,14.8,6.3,2.34
+5 by 5,FDR q=0.01,GLC_FCS30D 30 m,threatened richness,7842.0,21.7,22.0,0.98
+5 by 5,FDR q=0.01,GLC_FCS30D 30 m,irreplaceability ≥ 1,7842.0,13.4,6.3,2.11
+5 by 5,FDR q=0.01,GHSL 100 m,threatened richness,11343.0,14.4,22.0,0.65
+5 by 5,FDR q=0.01,GHSL 100 m,irreplaceability ≥ 1,11343.0,6.8,6.3,1.07
+5 by 5,FDR q=0.01,ESA CCI 300 m,threatened richness,2761.0,27.6,22.0,1.25
+5 by 5,FDR q=0.01,ESA CCI 300 m,irreplaceability ≥ 1,2761.0,15.8,6.3,2.49
+3 by 3,"z>2.58, all land",GLC_FCS30D 30 m,threatened richness,5912.185200806642,7.378050905147685,16.377477918821825,0.4504998230935457
+3 by 3,"z>2.58, all land",GLC_FCS30D 30 m,irreplaceability ≥ 1,5912.185200806642,10.513082076816527,5.96600013830885,1.762165912352227
+3 by 3,"z>2.58, all land",GHSL 100 m,threatened richness,6598.276440073748,5.526901084841327,16.377477918821825,0.337469609926296
+3 by 3,"z>2.58, all land",GHSL 100 m,irreplaceability ≥ 1,6598.276440073748,6.142599884147746,5.96600013830885,1.0296010294577291
+3 by 3,"z>2.58, all land",ESA CCI 300 m,threatened richness,3499.645029132373,3.906333728714925,16.377477918821825,0.2385186381002882
+3 by 3,"z>2.58, all land",ESA CCI 300 m,irreplaceability ≥ 1,3499.645029132373,7.900501396959744,5.96600013830885,1.324254310057602
+5 by 5,"z>2.58, all land",GLC_FCS30D 30 m,threatened richness,8519.638095458551,13.670619773314982,22.62006009163222,0.6043582429903499
+5 by 5,"z>2.58, all land",GLC_FCS30D 30 m,irreplaceability ≥ 1,8519.638095458551,10.58408894192323,5.96600013830885,1.7740678338172895
+5 by 5,"z>2.58, all land",GHSL 100 m,threatened richness,11086.24410672839,11.299412986182688,22.62006009163222,0.4995306352153613
+5 by 5,"z>2.58, all land",GHSL 100 m,irreplaceability ≥ 1,11086.24410672839,6.694906999454597,5.96600013830885,1.1221768092939346
+5 by 5,"z>2.58, all land",ESA CCI 300 m,threatened richness,4950.57105827809,9.22345199420489,22.62006009163222,0.4077554151864034
+5 by 5,"z>2.58, all land",ESA CCI 300 m,irreplaceability ≥ 1,4950.57105827809,9.570137967249067,5.96600013830885,1.6041129308390971
