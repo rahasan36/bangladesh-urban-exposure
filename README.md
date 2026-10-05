@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-# bangladesh-urban-exposure
-=======
 # Mapping hidden urban exposure around Bangladesh's protected areas and species habitats
 
-Rakibul Ahasan, Palash Chandra Das, and Shawan Chowdhury
+Rakibul Ahasan, Palash Chandra Das, Shawan Chowdhury
 
 This repository holds the code, derived data, figures, and tables for a study that maps the urban land of Bangladesh at 30, 100, and 300 m (GLC_FCS30D, a GHSL-derived map, and ESA CCI) and measures how map resolution changes the urban exposure of protected areas, Key Biodiversity Areas, and the modeled habitat of 1,097 species from the national conservation prioritization. Aggregating the finer maps to one label per 300 m cell reproduces most of the difference in urban area among the three products, and that loss carries into protected area exposure, threshold counts of exposed species, and the overlap of urban expansion hotspots with irreplaceable land.
 
@@ -35,4 +32,3 @@ outputs/
 ## License
 
 MIT License. See `LICENSE`.
->>>>>>> 7d74421 (Code, data, figures, and tables for the Bangladesh urban exposure study)
