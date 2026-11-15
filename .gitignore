@@ -24,3 +24,4 @@ data/multires/ghsl/
 data/multires/*_partial.csv
 *.npy
 *.npz
+_to_delete/

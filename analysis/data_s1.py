@@ -42,7 +42,7 @@ print("rows", len(out), "sites", n_sites, "in comparison", n_in); print(out[~out
 FN = "Arial"; HF = PatternFill("solid", fgColor="D9D9D9"); GF = PatternFill("solid", fgColor="EFEFEF"); BOT = Border(bottom=Side(style="thin", color="808080"))
 wb = Workbook(); ws = wb.active; ws.title = "README"
 rd = [("Supplemental Data S1", None), ("Mapping hidden urban exposure around Bangladesh's protected areas and species habitats", None), ("Rakibul Ahasan, Palash Chandra Das, Shawan Chowdhury", None),
-      ("One Earth (submitted). Corresponding author: Rakibul Ahasan (rahasan@esri.com)", None), (None, None),
+      ("Corresponding author: Rakibul Ahasan (rahasan@tamu.edu)", None), (None, None),
       ("Description", f"Urban share of land (percent) in the core and in the 0 to 5, 5 to 10, and 10 to 25 km buffers of the {n_sites} protected areas and Key Biodiversity Areas of Bangladesh in 2000 and 2020, and the 2000 to 2020 change, under three urban maps. Sites are grouped by type and name, the unit used in the manuscript, so a site made of several polygons appears once."),
       ("Urban maps", "GLC_FCS30D 30 m land cover (Zhang et al. 2024), GHS-BUILT-S R2023A 100 m built-up surface labeled urban where at least 20 percent of a cell is built (Pesaresi and Politis 2023), and ESA CCI and C3S 300 m land cover (ESA 2017)."),
       ("Sites", "Protected areas from the World Database on Protected Areas (January 2026) and Key Biodiversity Areas from the World Database of Key Biodiversity Areas (March 2021). Site IDs list the WDPA or KBA identifiers of the polygons that make up the site."),

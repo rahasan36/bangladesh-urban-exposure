@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Code and data for: Mapping hidden urban exposure around Bangladesh's protected areas and species habitats"
+type: software
+authors:
+  - family-names: Ahasan
+    given-names: Rakibul
+    affiliation: "Environmental Systems Research Institute (Esri), Redlands, CA, USA 92373; Department of Geography, Texas A&M University, College Station, TX, USA 77843"
+    orcid: "https://orcid.org/0000-0003-4772-8499"
+  - family-names: Das
+    given-names: Palash Chandra
+    affiliation: "Department of Geography, Texas A&M University, College Station, TX, USA 77843"
+  - family-names: Chowdhury
+    given-names: Shawan
+    affiliation: "School of Biological Sciences, Monash University, Melbourne, VIC, Australia"
+repository-code: "https://github.com/rahasan36/bangladesh-urban-exposure"
+license: CC-BY-NC-ND-4.0
+keywords:
+  - urban expansion
+  - spatial resolution
+  - land cover products
+  - protected areas
+  - Key Biodiversity Areas
+  - species habitat
+  - Bangladesh
